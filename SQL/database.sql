@@ -1,3 +1,2 @@
-CREATE DATABASE freelance_management;
-
+CREATE DATABASE IF NOT EXISTS freelance_management;
 USE freelance_management;
